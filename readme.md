@@ -2,6 +2,7 @@
 
 - Graphql Yoga Server
 - Prisma
+- Prisma-client-lib
 - Postgress
 - Docker 
 
